@@ -39,9 +39,14 @@ Module will route input 7 to 4<br>
 Module will route input 8 to B<br>
 
 "MODE" Valid Ranges:<br>
-MODE = 0<br>
 
-¦  A(1) ¦  B(5) ¦<br>
+MODE = 0
+
+      +-------+-------+
+      ¦       ¦       ¦
+      ¦  A(1) ¦  B(5) ¦
+      ¦       ¦       ¦
+      +-------+-------+
 <br>
 MODE = 1
       
