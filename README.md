@@ -1,6 +1,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7PSI74)
 # __Video Wall Router 4x2__ 
-___
 
       __         __         __         __         __         __
     <(o )___   <(o )___   <(o )___   <(o )___   <(o )___   <(o )___     GOD BLESS AMERICA
