@@ -153,6 +153,10 @@ __Mode 4:__
 * Source_08_val#
   * DEST_X4-Y2_Source_val#
 
+## TO-DO
+- [X] PROVIDE MODULE
+- [ ] PROVIDE EXAMPLE PROGRAM
+- [X] DETAIL README
 ---
 
 [![Duck1776 GitHub stats](https://GitHub-readme-stats.vercel.app/api?username=Duck1776)](https://GitHub.com/anuraghazra/GitHub-readme-stats) 
