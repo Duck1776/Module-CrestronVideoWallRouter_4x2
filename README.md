@@ -20,22 +20,22 @@ When you set a Video Wall Mode, the routes are saved in a structure. When changi
 
 For example:
 
-1. default Mode __0__:
+1. default Mode __1__:
 * user routes input __2__ to __A__
 * user routes input __3__ to __B__
 
-2. user sets Mode __1__:
+2. user sets Mode __2__:
 * user routes input __4__ to __1__
 * user routes input __5__ to __2__
 * user routes input __6__ to __3__
 * user routes input __7__ to __4__
 * user routes input __8__ to __B__
 
-3. user sets Mode __0__:
+3. user sets Mode __1__:
 * Module will route input __2__ to __A__
 * Module will route input __3__ to __B__
 
-4. user sets Mode __1__:
+4. user sets Mode __2__:
 * Module will route input __4__ to __1__
 * Module will route input __5__ to __2__
 * Module will route input __6__ to __3__
@@ -46,19 +46,19 @@ For example:
 "MODE" Valid Ranges:<br>
 
 MODE:<br>
-0<br>
+1<br>
 ![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/2d283c6a-be6e-4f3d-83ed-9724f7f6e7a0)
 
-1<br> 
+2<br> 
 ![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/4ddbc5d2-90a7-4c36-840d-9702bc164539)
 
-2<br>
+3<br>
 ![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/5c25930e-ff41-4020-89ed-cffc83543a1d)
 
-3<br>
+4<br>
 ![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/40e6d811-98d4-445d-8b56-c4e3ed370b97)
 
-4<br>
+5<br>
 ![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/618660e5-f447-4b51-a6e3-d0f64b81f285)
 
 
@@ -79,7 +79,7 @@ The following analog inputs are valid when routing sources to outputs:<br>
 
 <br>
 
-__Mode 0:__
+__Mode 1:__
 * Source_01_val#
   * DEST_X1-Y1_Source_val#<br>
   * DEST-X1-Y2_Source_val#<br>
@@ -90,7 +90,7 @@ __Mode 0:__
   * DEST_X4-Y1_Source_val#<br>
   * DEST_X4-Y2_Source_val#<br>
 
-__Mode 1:__
+__Mode 2:__
 * Source_01_val#
   * DEST_X1-Y1_Source_val#
 * Source_02_val#
@@ -105,7 +105,7 @@ __Mode 1:__
   * DEST_X4-Y1_Source_val#
   * DEST_X4-Y2_Source_val#
 
-__Mode 2:__
+__Mode 3:__
 * Source_01_val#
   * DEST_X1-Y1_Source_val#
 * Source_02_val#
@@ -120,7 +120,7 @@ __Mode 2:__
 * Source_08_val#
   * DEST_X4-Y2_Source_val#
 
-__Mode 3:__
+__Mode 4:__
 * Source_01_val#
   * DEST_X1-Y1_Source_val#
   * DEST_X1-Y2_Source_val#
@@ -135,7 +135,7 @@ __Mode 3:__
 * Source_08_val#
   * DEST_X4-Y2_Source_val#
 
-__Mode 4:__
+__Mode 5:__
 * Source_01_val#
   * DEST_X1-Y1_Source_val#
 * Source_02_val#
@@ -155,7 +155,7 @@ __Mode 4:__
 
 ## TO-DO
 - [X] PROVIDE MODULE
-- [ ] PROVIDE EXAMPLE PROGRAM
+- [X] PROVIDE EXAMPLE PROGRAM
 - [X] DETAIL README
 ---
 
