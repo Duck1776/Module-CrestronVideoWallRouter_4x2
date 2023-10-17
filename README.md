@@ -13,7 +13,7 @@ To be clear, this module __DOES NOT__ route a video source to the full 4x2. It w
 
 The outputs of your video wall needs to be as depicted:
 
-![Alt text](image.png)
+![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/adacc573-13e5-4749-928f-72c74370f24c)
 
 When you set a Video Wall Mode, the routes are saved in a structure. When changing Video Wall Modes, these routes will be recalled if the mode has been used before. This is to prevent routing artifacts from occurring.
 
@@ -47,19 +47,20 @@ For example:
 
 MODE:<br>
 0<br>
-![Alt text](image-5.png)
+![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/2d283c6a-be6e-4f3d-83ed-9724f7f6e7a0)
 
 1<br> 
-![Alt text](image-6.png)
+![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/4ddbc5d2-90a7-4c36-840d-9702bc164539)
 
 2<br>
-![Alt text](image-7.png)
+![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/5c25930e-ff41-4020-89ed-cffc83543a1d)
 
 3<br>
-![Alt text](image-8.png)
+![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/40e6d811-98d4-445d-8b56-c4e3ed370b97)
 
 4<br>
-![Alt text](image-9.png)
+![image](https://github.com/Duck1776/Module-CrestronVideoWallRouter_4x2/assets/98322231/618660e5-f447-4b51-a6e3-d0f64b81f285)
+
 
 
 
